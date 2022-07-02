@@ -1,0 +1,50 @@
+#card1 {
+    background: aqua;
+    height: 310px;
+    width: 400px;
+    position: relative;
+    left: 35%;
+}
+
+#signin {
+    font-style: bold;
+    font-size: xx-large;
+    position: relative;
+    left: 39%;
+    top: 25px;
+}
+
+#button1 {
+    left: 120px;
+    ;
+    background: black;
+    color: white;
+    width: 170px;
+    position: relative;
+    top: 120px;
+}
+
+#button2 {
+    width: 170px;
+    background: black;
+    color: white;
+    position: relative;
+    top: 160px;
+    right: 53px;
+}
+
+#content1 {
+    left: 120px;
+    FONT-WEIGHT: 100;
+    position: relative;
+    color: grey;
+    font-size: small;
+    top: 160px;
+}
+
+#content2 {
+    top: 126px;
+    position: relative;
+    left: 226px;
+    font-size: revert;
+}
